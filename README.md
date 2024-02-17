@@ -1,6 +1,6 @@
 # <h1>Construção de chat com react e nodejs
 
-<img src="">
+<img src="client/src/components/capa.png">
 
 <h2>Descrição do projeto:<h2/>
 <h3>Backend (Node.js com Express e Socket.IO)</h3>
